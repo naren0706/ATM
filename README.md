@@ -12,7 +12,7 @@ It is a simple ATM application which is used to perform specfic task like
                       
                       
                       
-Flow chart:
+#Flow chart:
 
                                                                    
                                                   index                                              
